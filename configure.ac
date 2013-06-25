@@ -58,7 +58,7 @@ dnl ======================
 INPUT_PLUGINS="tonegen metronom vtx"
 OUTPUT_PLUGINS=""
 EFFECT_PLUGINS="compressor crossfade crystalizer ladspa mixer stereo_plugin voice_removal echo_plugin"
-GENERAL_PLUGINS="alarm albumart search-tool"
+GENERAL_PLUGINS="alarm albumart search-tool scoring"
 VISUALIZATION_PLUGINS="blur_scope cairo-spectrum"
 CONTAINER_PLUGINS="asx asx3 audpl m3u pls xspf"
 TRANSPORT_PLUGINS="unix-io"
